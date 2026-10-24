@@ -1,0 +1,1 @@
+SAMPLE ACCOUNTING REPORTS\n\nAll names, dates, transactions, quantities, and amounts are fictional. These are demonstration templates, not actual client reports. Excel files are editable; review formulas and adapt the template to source records and accounting policies. PDF files are previews.\n
